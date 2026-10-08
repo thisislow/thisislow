@@ -2,8 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=thisislow&color=yellow)
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9B%B8+Who+am+I%3F)](https://git.io/typing-svg)
  ⦾ txt
+ 
  * txt
+   
  ⦾ txt
+ 
  ○ txt
 > [!CAUTION]
 > I'm so super awesome.
