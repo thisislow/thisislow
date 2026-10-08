@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9B%B8+Who+am+I%3F)](https://git.io/typing-svg)
  ⦾ txt
  
- * txt
+ • txt
    
  ⦾ txt
  
@@ -12,7 +12,9 @@
 > I'm so super awesome.
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%90%81+Fun+facts+!1!!1!!!!)](https://git.io/typing-svg)- txt
  ⦾ txt
- - txt
+ 
+ • txt
+ 
  ○ txt
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+What+I'm+currently+working+on)](https://git.io/typing-svg)
 
